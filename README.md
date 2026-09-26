@@ -35,19 +35,6 @@ Single self-contained `index.html` file. Uses:
 
 Just open `index.html` in any modern browser. No installation needed.
 
-## Deploy
-
-**Vercel Drop** (easiest, no account setup beyond signing in):
-1. Go to [vercel.com/drop](https://vercel.com/drop)
-2. Drag `index.html` onto the page
-3. Name the project and click Deploy
-
-**GitHub Pages:**
-1. Create a new GitHub repo
-2. Upload `index.html` to the repo root
-3. Settings → Pages → set branch to `main`, folder to `/root` → Save
-4. Live at `https://<your-username>.github.io/<repo-name>/`
-
 ## Notes
 
 - All data (targets, achievements, timetable, journal, theme) is saved in
